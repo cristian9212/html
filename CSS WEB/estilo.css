@@ -1,16 +1,16 @@
 *{
-	padding: 0px;
-	margin: 0px;
+	font-family: 'Lobster', cursive;
+	font-weight: 100;
+	font-size: 30px;
 }
 
-.contact-form {
-	font-size: 25 px;
-}
-.contact-form__h2{
-	font-size: 2em;
-	font-family: sans-serif;
-	color: red;
+h2 {
+	display: inline;
+	height: 400px;
+	width: 100px;
 }
 
-
-
+p {
+	height: 400px;
+	width: 190px;	
+}
