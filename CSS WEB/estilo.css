@@ -5,12 +5,10 @@
 }
 
 h2 {
-	display: inline;
-	height: 400px;
-	width: 100px;
-}
+	background-color: red;
+	display: inline-block;
+	padding: 100px
+	box-sizing: border-box;
+	text-align: center;
 
-p {
-	height: 400px;
-	width: 190px;	
 }
