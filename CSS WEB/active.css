@@ -1,0 +1,21 @@
+*{
+	font-family: 'Instrument Serif', serif;
+	font-weight: 100;
+	font-size: 20px;
+}
+
+
+
+
+.caja {
+	width: 250px;
+	height: 250px;
+	background: red;
+	margin: 25px;
+	transition: all 1s;
+}
+
+.caja:active {
+	background: blue;
+	width: 600px;
+}
